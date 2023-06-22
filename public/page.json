@@ -1,0 +1,433 @@
+{
+  "status": "success",
+  "code": 200,
+  "data": {
+    "total_count": 2863,
+    "recruits": [
+      {
+        "id": 1248509,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74551/cropped_medium_cropped_medium_%EC%9D%B4%EC%82%BC%EC%98%A4%EA%B5%AC.png",
+        "title": "해외사업팀 팀원",
+        "occupation_names": {
+          "level1": ["기획/경영"],
+          "level2": ["사업 기획"]
+        },
+        "annual": {
+          "type": [1, 2],
+          "years": 1,
+          "preferential": false,
+          "annual_text": ["신입", "1년 이상"]
+        },
+        "skills": ["전략기획", "해외", "사업기획"],
+        "appeal": "아침/점심 제공, 반반차 사용",
+        "matching_keyword": "",
+        "review": "22년 연매출 600억 달성, 창립후 4년간 1,000% 성장",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 373169,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/373169/thumb_230209_%EC%9D%B4%EC%82%BC%EC%98%A4%EA%B5%AC%20%EB%A1%9C%EA%B3%A0.png",
+          "name": "(주)이삼오구",
+          "grade": 3.6,
+          "grade_count": 16,
+          "ratings": [
+            {
+              "type": "사내문화",
+              "rating": 4
+            },
+            {
+              "type": "복지/급여",
+              "rating": 3.9
+            },
+            {
+              "type": "경영진",
+              "rating": 3.4
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      },
+      {
+        "id": 1248510,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74552/cropped_medium_%EC%9D%B4%EC%82%BC%EC%98%A4%EA%B5%AC.png",
+        "title": "총무 팀장",
+        "occupation_names": {
+          "level1": ["인사/총무"],
+          "level2": ["총무/사무"]
+        },
+        "annual": {
+          "type": [2],
+          "years": 7,
+          "preferential": false,
+          "annual_text": ["7년 이상"]
+        },
+        "skills": ["구매", "총무", "복리후생", "사무", "비품관리", "사옥관리"],
+        "appeal": "아침/점심 제공, 반반차 사용",
+        "matching_keyword": "",
+        "review": "2022년 연매출 600억 달성, 창립 후 4년간 1,000% 이상",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 373169,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/373169/thumb_230209_%EC%9D%B4%EC%82%BC%EC%98%A4%EA%B5%AC%20%EB%A1%9C%EA%B3%A0.png",
+          "name": "(주)이삼오구",
+          "grade": 3.6,
+          "grade_count": 16,
+          "ratings": [
+            {
+              "type": "사내문화",
+              "rating": 4
+            },
+            {
+              "type": "복지/급여",
+              "rating": 3.9
+            },
+            {
+              "type": "경영진",
+              "rating": 3.4
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      },
+      {
+        "id": 1248581,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74623/cropped_medium_%EB%93%9C%EB%A6%BC%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8.jpg",
+        "title": "광고기획,브랜딩,AE,IMC",
+        "occupation_names": {
+          "level1": ["미디어/홍보"],
+          "level2": ["광고기획/카피라이터"]
+        },
+        "annual": {
+          "type": [2],
+          "years": 7,
+          "preferential": true,
+          "annual_text": ["7년 이상"]
+        },
+        "skills": ["기획", "마케팅", "브랜딩", "광고기획"],
+        "appeal": "사내 카페테리아, 조기퇴근",
+        "matching_keyword": "",
+        "review": "Digital Creative IMC Group",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 321721,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/321721/thumb_10028174268.jpg",
+          "name": "(주)드림인사이트",
+          "grade": 3.3,
+          "grade_count": 96,
+          "ratings": [
+            {
+              "type": "CEO 지지도",
+              "rating": 3.8
+            },
+            {
+              "type": "승진 가능성",
+              "rating": 3.5
+            },
+            {
+              "type": "경영진",
+              "rating": 3.3
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      },
+      {
+        "id": 1248575,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74617/cropped_medium_13378142073_%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%8A%A4%ED%84%B0%EB%8B%9D.jpg",
+        "title": "인사이드 세일즈 매니저_라우드소싱",
+        "occupation_names": {
+          "level1": ["영업/제휴"],
+          "level2": ["국내영업"]
+        },
+        "annual": {
+          "type": [2],
+          "years": 1,
+          "preferential": false,
+          "annual_text": ["1년 이상"]
+        },
+        "skills": ["마케팅", "영업기획", "영업", "영업관리", "온라인영업"],
+        "appeal": "37.5시간근무, 시차출근제 등",
+        "matching_keyword": "스터닝, Golang, Python, Java, Data Driven, AWS DevOps, TDD",
+        "review": "하루 37.5시간 근무! 남들보다 30분 덜 일합니다.",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 92263,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/92263/thumb_%EC%8A%A4%ED%84%B0%EB%8B%9Drecruit6-03.png",
+          "name": "(주)스터닝",
+          "grade": 4.2,
+          "grade_count": 11,
+          "ratings": [
+            {
+              "type": "워라밸",
+              "rating": 4.5
+            },
+            {
+              "type": "사내문화",
+              "rating": 3.4
+            },
+            {
+              "type": "CEO 지지도",
+              "rating": 3.2
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      },
+      {
+        "id": 1248557,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74599/cropped_medium_IMG_9695%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.JPG",
+        "title": "축산물 도매 영업",
+        "occupation_names": {
+          "level1": ["영업/제휴"],
+          "level2": ["국내영업"]
+        },
+        "annual": {
+          "type": [2],
+          "years": 3,
+          "preferential": false,
+          "annual_text": ["3년 이상"]
+        },
+        "skills": ["마케팅", "영업", "영업관리", "거래처관리"],
+        "appeal": "전용 오피스, 임직원 할인",
+        "matching_keyword": "미트박스",
+        "review": "유통산업을 혁신하는 축산물 직거래플랫폼, 미트박스",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 321373,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/321373/thumb_MicrosoftTeams-image%20_6_.png",
+          "name": "(주)미트박스글로벌",
+          "grade": 2.6,
+          "grade_count": 46,
+          "ratings": [
+            {
+              "type": "워라밸",
+              "rating": 3.3
+            },
+            {
+              "type": "복지/급여",
+              "rating": 2.7
+            },
+            {
+              "type": "사내문화",
+              "rating": 2.4
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      },
+      {
+        "id": 1248556,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74598/cropped_medium_IMG_9695%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.JPG",
+        "title": "경영기획",
+        "occupation_names": {
+          "level1": ["기획/경영"],
+          "level2": ["경영기획/전략"]
+        },
+        "annual": {
+          "type": [2],
+          "years": 3,
+          "preferential": false,
+          "annual_text": ["3년 이상"]
+        },
+        "skills": ["기획", "전략", "경영", "경영기획", "전략수립"],
+        "appeal": "전용 오피스, 임직원 할인",
+        "matching_keyword": "미트박스",
+        "review": "유통산업을 혁신하는 축산물 직거래플랫폼, 미트박스",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 321373,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/321373/thumb_MicrosoftTeams-image%20_6_.png",
+          "name": "(주)미트박스글로벌",
+          "grade": 2.6,
+          "grade_count": 46,
+          "ratings": [
+            {
+              "type": "워라밸",
+              "rating": 3.3
+            },
+            {
+              "type": "복지/급여",
+              "rating": 2.7
+            },
+            {
+              "type": "사내문화",
+              "rating": 2.4
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      },
+      {
+        "id": 1248555,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74597/cropped_medium_IMG_9695%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.JPG",
+        "title": "재무회계 담당자 (주니어)",
+        "occupation_names": {
+          "level1": ["금융/재무"],
+          "level2": ["재무기획/재무분석"]
+        },
+        "annual": {
+          "type": [1, 2],
+          "years": 0,
+          "preferential": true,
+          "annual_text": ["경력무관", "신입"]
+        },
+        "skills": ["재무", "회계", "결산", "재무회계", "재무분석"],
+        "appeal": "전용 오피스, 임직원 할인",
+        "matching_keyword": "미트박스",
+        "review": "유통산업을 혁신하는 축산물 직거래플랫폼, 미트박스",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 321373,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/321373/thumb_MicrosoftTeams-image%20_6_.png",
+          "name": "(주)미트박스글로벌",
+          "grade": 2.6,
+          "grade_count": 46,
+          "ratings": [
+            {
+              "type": "워라밸",
+              "rating": 3.3
+            },
+            {
+              "type": "복지/급여",
+              "rating": 2.7
+            },
+            {
+              "type": "사내문화",
+              "rating": 2.4
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      },
+      {
+        "id": 1248554,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74596/cropped_medium_IMG_9695%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.JPG",
+        "title": "영업기획",
+        "occupation_names": {
+          "level1": ["영업/제휴"],
+          "level2": ["영업기획/관리/지원"]
+        },
+        "annual": {
+          "type": [2],
+          "years": 5,
+          "preferential": false,
+          "annual_text": ["5년 이상"]
+        },
+        "skills": ["영업기획", "영업", "서비스기획", "영업관리", "프로모션기획"],
+        "appeal": "전용 오피스, 임직원 할인",
+        "matching_keyword": "미트박스",
+        "review": "유통산업을 혁신하는 축산물 직거래플랫폼, 미트박스",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 321373,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/321373/thumb_MicrosoftTeams-image%20_6_.png",
+          "name": "(주)미트박스글로벌",
+          "grade": 2.6,
+          "grade_count": 46,
+          "ratings": [
+            {
+              "type": "워라밸",
+              "rating": 3.3
+            },
+            {
+              "type": "복지/급여",
+              "rating": 2.7
+            },
+            {
+              "type": "사내문화",
+              "rating": 2.4
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      },
+      {
+        "id": 1248552,
+        "bookmark": false,
+        "image": "https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/74594/cropped_medium_IMG_9695%20-%20%EB%B3%B5%EC%82%AC%EB%B3%B8.JPG",
+        "title": "수입육/해외소싱 MD",
+        "occupation_names": {
+          "level1": ["마케팅/시장조사"],
+          "level2": ["상품개발/기획/MD"]
+        },
+        "annual": {
+          "type": [2],
+          "years": 2,
+          "preferential": false,
+          "annual_text": ["2년 이상"]
+        },
+        "skills": ["온라인MD", "MD", "상품관리", "해외소싱", "고객경험"],
+        "appeal": "전용 오피스, 임직원 할인",
+        "matching_keyword": "미트박스",
+        "review": "유통산업을 혁신하는 축산물 직거래플랫폼, 미트박스",
+        "reward": 2000000,
+        "reward_text": "200만원",
+        "job_applicant_type": "user",
+        "fee": "7%",
+        "company": {
+          "id": 321373,
+          "logo": "https://jpassets.jobplanet.co.kr/production/uploads/company/logo/321373/thumb_MicrosoftTeams-image%20_6_.png",
+          "name": "(주)미트박스글로벌",
+          "grade": 2.6,
+          "grade_count": 46,
+          "ratings": [
+            {
+              "type": "워라밸",
+              "rating": 3.3
+            },
+            {
+              "type": "복지/급여",
+              "rating": 2.7
+            },
+            {
+              "type": "사내문화",
+              "rating": 2.4
+            }
+          ]
+        },
+        "created_at": "2023-05-23",
+        "updated_at": "2023-05-23"
+      }
+    ]
+  },
+  "csrf": null
+}
