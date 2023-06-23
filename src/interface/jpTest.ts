@@ -1,4 +1,4 @@
-export interface list {
+export interface IRecruits {
   id: number;
   bookmark: boolean;
   image: string;

@@ -4,17 +4,29 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        s: '12px',
-        b: '14px',
-        l: '16px',
-        xl: '20px',
+        h1: ['1.25rem', { lineHeight: '1.875rem', fontWeight: '700' }],
+        h2: ['1rem', { lineHeight: '1.5rem', fontWeight: '700' }],
+        h3: ['0.875rem', { lineHeight: '1.375rem', fontWeight: '700' }],
+        body1: ['1rem', { lineHeight: '1.5rem', fontWeight: '400' }],
+        body2: ['0.875rem', { lineHeight: '1.375rem', fontWeight: '400' }],
+        body3: ['0.75rem', { lineHeight: '1.125rem', fontWeight: '400' }],
       },
 
-      lineHeight: {
-        s: '18px',
-        b: '22px',
-        l: '24px',
-        xl: '30px',
+      width: {
+        wrap: '954px',
+        box: '294px',
+      },
+
+      height: {
+        box: '378px',
+      },
+
+      height: {
+        180: '180px',
+      },
+
+      padding: {
+        4.5: '1.125rem',
       },
 
       colors: {
