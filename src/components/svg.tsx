@@ -10,7 +10,7 @@ interface IProps {
 }
 
 export const Bookmark = memo(({ className, size = '28', fill = 'white', isMark = false }: IProps) => {
-  console.log('Bookmark');
+  // console.log('Bookmark');
 
   return (
     <svg className={className} width={size} height={size} viewBox={`0 0 ${size} ${size}`} fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -31,7 +31,7 @@ export const Bookmark = memo(({ className, size = '28', fill = 'white', isMark =
 });
 
 export const IconStar = memo(({ className, size = '14', fill = '#00C362' }: IProps) => {
-  console.log('IconStar');
+  // console.log('IconStar');
 
   return (
     <svg className={className} width={size} height={size} viewBox={`0 0 ${size} ${size}`} fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -44,7 +44,7 @@ export const IconStar = memo(({ className, size = '14', fill = '#00C362' }: IPro
 });
 
 export const IconWon = memo(({ className, size = '15', fill = '#2196F3' }: IProps) => {
-  console.log('IconWon');
+  // console.log('IconWon');
 
   return (
     <svg className={className} width={size} height={size} viewBox={`0 0 ${size} ${size}`} fill="none" xmlns="http://www.w3.org/2000/svg">
