@@ -51,7 +51,7 @@ const Home = () => {
         <section className="py-12">
           {status !== 'error' &&
             recruits.pages.map((page, index) => (
-              <div key={index} className="grid grid-cols-3 gap-9 mb-9">
+              <div key={index} className="grid grid-cols-3 gap-9 mb-9 last:mb-0">
                 {page.map((item: IRecruits) => (
                   <div key={item.id} className="w-box border border-solid border-gray03 rounded-xl shadow-shadow01">
                     <div className="inline-block relative w-full h-180 overflow-hidden">
